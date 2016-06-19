@@ -1,7 +1,6 @@
 from src.common.database import Database
 from src.models.alerts.alert import Alert
 
-__author__ = 'jslvtr'
 
 Database.initialize()
 
